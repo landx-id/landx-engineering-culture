@@ -1,8 +1,12 @@
 # LandX Engineering Culture & Workflows
 
+![landx-logo-screenshot](/images/landx-logo.webp)
+
 Dokumentasi singkat ini berisi sedikit cuplikan tentang bagaimana kami bekerja sebagai bagian dari divisi Engineering di LandX. Melalui dokumentasi ini, kami sedikit membuka dapur Engineering kami kepada publik dengan harapan dapat dijadikan panduan bagaimana membentuk dan mengelola tim Engineering yang solid sebagai bagian integral dari sebuah perusahaan. 
 
 Sebagaian besar isi dari dokumentasi ini kami ambil langsung dari portal dokumentasi internal, tentunya dengan sedikit modifikasi terutama di bagian sensitif yang bersifat credential.
+
+Our mantra is: `Build, Ship, Repeat`
 
 ## Table Of Contents
 
